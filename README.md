@@ -15,4 +15,8 @@ GAT_Cognition_moca_sum.ipynb: python notebook for predictions/spectral clusterin
 
 GAT_PSQI.ipynb: python notebook for predictions/spectral clustering/analysis on psqi score.
 
-VAE.ipynb: python notebook for GraphVAE connectome generation and analysis
+CondGATVAE.ipynb: python notebook for conditional variational graph autoencoder on four outcome variables (age, moca, ravlt, psqi)
+
+GATVAE: python notebook for variational GAT autoencoder (unconditioned)
+
+VAE.ipynb: python notebook for variational autoencoder for adjacency upper-triangular
