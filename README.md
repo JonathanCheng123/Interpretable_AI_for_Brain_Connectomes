@@ -15,4 +15,4 @@ GAT_Cognition_moca_sum.ipynb: python notebook for predictions/spectral clusterin
 
 GAT_PSQI.ipynb: python notebook for predictions/spectral clustering/analysis on psqi score.
 
-??????.ipynb: python notebook for GraphVAE connectome generation and analysis
+VAEipynb: python notebook for GraphVAE connectome generation and analysis
